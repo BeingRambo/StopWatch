@@ -1,6 +1,6 @@
 # StopWatch
 
-visit:  https://beingrambo.github.io/StopWatch/
+visit: https://iamsanjaygawai.github.io/StopWatch/
 
 Basic StopWatch Project using HTML CSS and JavaScript
 
